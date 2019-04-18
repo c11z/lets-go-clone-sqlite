@@ -1,2 +1,2 @@
-# let's go clone sqlite3
-A minimal clone of sqlite3 written in golang. Following tutorial at https://cstack.github.io/db\_tutorial/, so thanks.
+# Let's Go Clone SQLite
+A minimal clone of SQLite3 written in Golang. Following tutorial at https://cstack.github.io/db\_tutorial/, so thanks.
